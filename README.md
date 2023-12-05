@@ -1,0 +1,2 @@
+# ![Express Value Hub](images/EVH%20logo.jpg)
+This is a proect undertaken to create an e-commerce platform that enables individuals and businesses to create and manage their online stores. The aim is to provide tools for website building, product management, payment processing, and order fulfillment, making it easier for users to sell products or services online.
